@@ -89,7 +89,7 @@ Analista de QA com mais de 3 anos de experiência em testes manuais e automaçã
 ##
 
 ### 📊 Estatísticas no GitHub:
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Teffz&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teffz&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ##
 
